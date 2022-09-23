@@ -1,0 +1,19 @@
+API
+ ALUNO
+ ATIVIDADES
+
+Tarefas:
+0.Requisitos
+  0.1 Node
+  0.2 Mysql
+  0.3 Mysql Workbench
+  0.4 Postman ou Insonia - UI-REST
+1. Configurar o projeto
+   1.1 npm int
+   1.2 npm install
+2.criar as rotas - express
+   GET,GET:id, POST,DELETE,PUT
+   3.Persistencia - banco
+     SEQUELIZE - Mysql
+   4. Relacionamentos
+     Aluno x Atividade
